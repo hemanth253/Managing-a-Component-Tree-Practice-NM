@@ -1,2 +1,2 @@
-# Managing-a-Component-Tree-Practice-NM
+# Managing-a-Component-Tree-Practice
 Created with CodeSandbox
